@@ -151,7 +151,6 @@ export function createAnimation(frameName, tileTextures) {
 }
 
 export function updateScene(container, characterSprite, deltaTime) {
-  console.log("container ", container.x);
   if (container.x > 0 && container.x < 10) {
     container.x = -1;
   }

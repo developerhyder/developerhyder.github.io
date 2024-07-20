@@ -285,10 +285,8 @@ function aboutEnd(PIXI, y, x) {
     });
 
     x += item.x;
-    console.log("x ", item.text, item.x);
     text.y = y - windowHeigth / 3 + item.y;
-    text.x = x;
-    console.log("x ", item.text, item.x, x);
+    text.x = x;;
     x += text.width;
     texts.push(text);
   });

@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <style>
+      canvas {
+        display: block;
+      }
+      #landscape-warning {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 30px;
+        color: black;
+      }
+    </style>
+    <style rel="stylesheet" href="./style/index.css"></style>
+  </head>
+  <body style="margin: 0%; background-color: black;">
+    <div id="landscape-warning">
+      <img src="https://i.giphy.com/PfY4nKis93ZHXMywps.webp" alt="Rotate your device">
+    </div>
+    <script src="./src/libs/pixi.js"></script>
+    <script src="./src/libs/pixi-sound.js"></script>
+    <script type="module">
+      import { gamelogic } from "./src/components/App.js";
+      await gamelogic(PIXI);
+    </script>
+  </body>
+</html>

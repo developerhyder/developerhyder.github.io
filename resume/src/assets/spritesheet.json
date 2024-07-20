@@ -1,0 +1,45 @@
+{
+    "bodyTypeName": "teen",
+    "url": "https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_light&head=Human_male_light&shadow=none&animation=any&wound_arm=none&wound_brain=none&clothes=Shortsleeve_sky&overalls=none&armour=none&legs=Pants_black&hair=Mop_black&shoulders=none&sex=teen",
+    "spritesheets": "https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/spritesheets/",
+    "version": 1,
+    "datetime": "7/4/2024, 3:33:18 PM",
+    "credits": "Authors: bluecarrot16, Evert, TheraHedwig, Benjamin K. Smith (BenCreating), MuffinElZangano, Durrani, Pierre Vigier (pvigier), Eliza Wyatt (ElizaWy), Matthew Krohn (makrohn), Johannes Sj?lund (wulax), Stephen Challener (Redshrike), Radomir Dopieralski, Nyom, ElizaWy\n\n- body/bodies/teen/light.png: by bluecarrot16, Evert, TheraHedwig, Benjamin K. Smith (BenCreating), MuffinElZangano, Durrani, Pierre Vigier (pvigier), Eliza Wyatt (ElizaWy), Matthew Krohn (makrohn), Johannes Sj?lund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites\n    - https://opengameart.org/content/lpc-ladies\n    - https://opengameart.org/content/lpc-teen-unisex-base-clothes\n    - https://opengameart.org/content/lpc-jump-expanded\n\n- head/heads/human/male/light.png: by bluecarrot16, Benjamin K. Smith (BenCreating), Stephen Challener (Redshrike). License(s): OGA-BY 3.0, CC-BY-SA 3.0, GPL 3.0. original head by Redshrike; tweaks by BenCreating; modular version by bluecarrot16\n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n    - https://opengameart.org/content/lpc-character-bases\n\n- hair/mop/male/black.png: by Radomir Dopieralski, bluecarrot16. License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/alternate-lpc-character-sprites-george\n    - https://opengameart.org/content/lpc-hair\n\n- torso/clothes/shortsleeve/shortsleeve/teen/sky.png: by Nyom, bluecarrot16, ElizaWy, Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. \n    - https://opengameart.org/content/lpc-teen-androgynous-short-sleeve-shirt\n\n- legs/pants/teen/black.png: by bluecarrot16, ElizaWy, Stephen Challener (Redshrike). License(s): OGA-BY 3.0, GPL 3.0. \n    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles\n    - https://opengameart.org/content/lpc-teen-unisex-base-clothes\n    - http://opengameart.org/content/lpc-clothing-updates",
+    "layers": [
+      {
+        "fileName": "body/bodies/teen/light.png",
+        "zPos": 10,
+        "parentName": "body",
+        "name": "Body color",
+        "variant": "light"
+      },
+      {
+        "fileName": "legs/pants/teen/black.png",
+        "zPos": 20,
+        "parentName": "legs",
+        "name": "Pants",
+        "variant": "black"
+      },
+      {
+        "fileName": "torso/clothes/shortsleeve/shortsleeve/teen/sky.png",
+        "zPos": 35,
+        "parentName": "clothes",
+        "name": "Shortsleeve",
+        "variant": "sky"
+      },
+      {
+        "fileName": "head/heads/human/male/light.png",
+        "zPos": 100,
+        "parentName": "head",
+        "name": "Human male",
+        "variant": "light"
+      },
+      {
+        "fileName": "hair/mop/male/black.png",
+        "zPos": 120,
+        "parentName": "hair",
+        "name": "Mop",
+        "variant": "black"
+      }
+    ]
+  }

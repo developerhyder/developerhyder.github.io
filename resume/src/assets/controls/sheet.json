@@ -1,0 +1,26 @@
+
+{
+    "frames" : {
+        "leftArrow": {
+      "frame": { "x": 416, "y": 160, "w": 80, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+       "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 80 }
+     },
+     "rightArrow": {
+      "frame": { "x": 473, "y": 320, "w": 80, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+       "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 80 }
+     },
+     "powerButton": {
+      "frame": { "x": 320, "y": 80, "w": 80, "h": 80 },
+      "sourceSize": { "w": 80, "h": 80 },
+       "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 80 }
+     }
+    },
+    "meta": {
+    "image": "controls.png",
+    "format": "RGBA8888",
+    "size": { "w": 128, "h": 32 },
+    "scale": 1
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "frames": {
+    "playerIdle1": {
+      "frame": { "x": 0, "y": 128, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerIdle2": {
+      "frame": { "x": 64, "y": 128, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerIdle3": {
+      "frame": { "x": 128, "y": 128, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerIdle4": {
+      "frame": { "x": 192, "y": 128, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerIdle5": {
+      "frame": { "x": 256, "y": 128, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerIdle6": {
+      "frame": { "x": 320, "y": 128, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerLeft1": {
+      "frame": { "x": 0, "y": 576, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerLeft2": {
+      "frame": { "x": 64, "y": 576, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerLeft3": {
+      "frame": { "x": 128, "y": 576, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerLeft4": {
+      "frame": { "x": 192, "y": 576, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerLeft5": {
+      "frame": { "x": 256, "y": 576, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerLeft6": {
+      "frame": { "x": 320, "y": 576, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerLeft7": {
+      "frame": { "x": 384, "y": 576, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerLeft8": {
+      "frame": { "x": 448, "y": 576, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerLeft9": {
+      "frame": { "x": 512, "y": 576, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerRight1": {
+      "frame": { "x": 0, "y": 704, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerRight2": {
+      "frame": { "x": 64, "y": 704, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerRight3": {
+      "frame": { "x": 128, "y": 704, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerRight4": {
+      "frame": { "x": 192, "y": 704, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerRight5": {
+      "frame": { "x": 256, "y": 704, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerRight6": {
+      "frame": { "x": 320, "y": 704, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerRight7": {
+      "frame": { "x": 384, "y": 704, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerRight8": {
+      "frame": { "x": 448, "y": 704, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    },
+    "playerRight9": {
+      "frame": { "x": 512, "y": 704, "w": 64, "h": 64 },
+      "sourceSize": { "w": 32, "h": 32 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 32, "h": 32 }
+    }
+  },
+  "meta": {
+    "image": "sheet.png",
+    "format": "RGBA8888",
+    "size": { "w": 128, "h": 32 },
+    "scale": 1
+  },
+  "animations": {
+    "playerIdle": ["playerIdle1", "playerIdle2", "playerIdle3"]
+  }
+}

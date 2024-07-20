@@ -1,0 +1,15 @@
+{
+  "frames": {
+    "pointy_mountains": {
+      "frame": { "x": 0, "y": 208, "w": 1001, "h": 168 },
+      "sourceSize": { "w": 1001, "h": 168 },
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1001, "h": 168 }
+    }
+  },
+  "meta": {
+    "image": "bg.png",
+    "format": "RGBA8888",
+    "size": { "w": 128, "h": 32 },
+    "scale": 1
+  }
+}
